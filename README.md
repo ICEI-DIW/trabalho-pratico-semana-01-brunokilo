@@ -7,8 +7,8 @@ Nome: Bruno Henrique Figueiredo Pimenta
 Matricula: 882470
 
 ## Tela de inspeção com navegador
-![alt text](image.png)
+![alt text](printResultado.png)
 
 ## Tela de projeto no Replit
 
-![alt text](image-1.png)
+![alt text](printhelloworldreplit.png)
